@@ -8,6 +8,6 @@ Soon at [deepinsider.xyz](https://depinsider.xyz).
 - [Storage](#Storage) 
 
 ## Storage
-| Name | Description | Product Readiness | Ecosystem | GitHub | Website |
-| ---- | ----------- | ----------------- | --------- | ------ | ------- |
-| TwentySix Cloud | Decentralized cloud marketplace offering a full range of blockchain-based storage, compute engine, indexing, and AI solutions for businesses and applications, powered by Aleph.im. | | | | https://www.twentysix.cloud/ |
+| Name | Description | Product Readiness | Ecosystem | Docs | GitHub | Website |
+| ---- | ----------- | ----------------- | --------- | ---- | ------ | ------- |
+| TwentySix Cloud | Decentralized cloud marketplace offering a full range of blockchain-based storage, compute engine, indexing, and AI solutions for businesses and applications, powered by Aleph.im. | | | | | https://www.twentysix.cloud/ |
