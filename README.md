@@ -2,7 +2,7 @@
 Holistic and data-driven approach to navigating the ecosystem of DePin instead of token-hype and irrelevant information.
 Our aim is to become the leading analytics platform for decentralized physical infrastructure networks.
 
-Soon at [deepinsider.xyz](https://depinsider.xyz).
+Soon at [depinsider.xyz](https://depinsider.xyz).
 
 ## Projects
 - [Storage](#Storage) 
